@@ -1,3 +1,5 @@
+""" Copyright © 2018 ambarsingh95 (Ambar Singh) """
+
 import time
 import pandas as pd
 import numpy as np
