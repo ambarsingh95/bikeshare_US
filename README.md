@@ -28,3 +28,10 @@ The user is also given the option to look at the raw data or select few rows to 
 ### Supporting help/reading:
 Pandas/numpy: data analysis at pythonprogramming.net, Udacity   
 matplotlib/seaborn: https://www.kaggle.com/meghananaik/simple-exploration  
+
+### Suggestions/Changes
+Suggestions and critical assessments are always welcome. If you would like to contribute please raise it as an issue so that we can talk about it before you start working. There is a possibility of updates to this project from me so keep that in mind. If you do not get a response within 5 days please feel free to reach out to me via email.
+
+Note: This code is under copyright so please do not copy the code as it is. You are free to fork the code, but if you use it in your own code give appropriate credits and inform me. 
+
+email: ambar95singh@gmail.com
